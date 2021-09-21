@@ -2,7 +2,7 @@
 
 
 I am a Data Science and Artificial Intelligence enthusiast. I earned a B.Tech degree in Computer Science and Engineering.:v:
-I'm a co-founder of two startups (1 in Profit, 1 in No Profit or No Loss) and they are running successfully. 
+<!-- I'm a co-founder of two startups (1 in Profit, 1 in No Profit or No Loss) and they are running successfully. -->
 
 
 - 🔭 I’m currently working on anomaly detection using OpenCV.
