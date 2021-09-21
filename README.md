@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**harbhajan21/harbhajan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Data Science and Artificial Intelligence enthusiast. I earned a B.Tech degree in Computer Science and Engineering.:v:
+I'm a co-founder of two startups (1 in Profit, 1 in No Profit or No Loss) and they are running successfully. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on anomaly detection using OpenCV.
+- 🌱 I’m currently learning model deployment on edge devices.
+- 👯 I’m looking to collaborate on robotics and AI projects.
+- 💬 Ask me about ML, CV, and Data Science.
+- 📬 How to reach Harbhajan: [Let's get in touch!][linkedin]
+
+<!--[website]: -->
+[linkedin]: https://www.linkedin.com/in/harbhajansingh21/
