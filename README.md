@@ -9,7 +9,7 @@ I'm a co-founder of two startups (1 in Profit, 1 in No Profit or No Loss) and th
 - 🌱 I’m currently learning model deployment on edge devices.
 - 👯 I’m looking to collaborate on robotics and AI projects.
 - 💬 Ask me about ML, CV, and Data Science.
-- 📬 How to reach Harbhajan: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!][linkedin]
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/harbhajansingh21/
