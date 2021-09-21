@@ -1,4 +1,4 @@
-###                                                                       Hi there 👋
+###  Hi there 👋
 
 
 I'm Harbhajan Singh, a Data Science and Artificial Intelligence enthusiast.:v:
@@ -12,7 +12,9 @@ Having completed my Bachelor’s in Computer Science & Engineering, I can say my
 - 🌱 I’m currently learning model deployment on edge devices.
 - 👯 I’m looking to collaborate on robotics & AI projects, and Kaggle competitions.
 - 💬 Ask me about ML, CV, and Data Science.
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!][linkedin] [Let's get in touch!][Twitter]
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/harbhajansingh21/
+
+[Twitter]: https://twitter.com/Harbhajan2105/
