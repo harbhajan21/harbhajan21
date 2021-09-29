@@ -28,6 +28,7 @@ Having completed my Bachelor’s in Computer Science & Engineering, I can say my
 <a href="mailto:singh.bhajji2105@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+                                                                                                   
 ---
 
 <h2 align="left">Tech Stack</h2>
