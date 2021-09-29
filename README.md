@@ -37,15 +37,12 @@ Having completed my Bachelor’s in Computer Science & Engineering, I can say my
 
 ---
 
-![Hari github stats](https://github-readme-stats.vercel.app/api?username=harbhajan21&show_icons=true&theme=gruvbox)
 
-![Profile views](https://gpvc.arturio.dev/harbhajan21)
-
-<p align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbhajan21&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbhajan21&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
 
-<p align=right>
+<p align=center>
 <img height="25" src="https://badges.pufler.dev/visits/harbhajan21/harbhajan21?color=black&logo=github" />
 <img height="25" src="https://komarev.com/ghpvc/?username=harbhajan21&color=brightgreen" />
 <a href="https://github.com/harbhajan21">
