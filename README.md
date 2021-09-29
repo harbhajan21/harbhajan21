@@ -22,20 +22,12 @@ Having completed my Bachelor’s in Computer Science & Engineering, I can say my
 <a href="https://www.linkedin.com/in/harbhajansingh21/">
   <img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/harikrishna9">
+<a href="https://www.kaggle.com/harbhajansingh21">
   <img alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
 <a href="mailto:singh.bhajji2105@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a><!--
-- 📬 How to reach me: [Let's get in touch via LinkedIn!][linkedin] 
-                      [Let's get in touch via Twitter!][Twitter]
-
-<!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/harbhajansingh21/
-
-[Twitter]: https://twitter.com/Harbhajan2105/
--->
+</a>
 ---
 
 <h2 align="left">Tech Stack</h2>
