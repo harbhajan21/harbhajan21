@@ -11,7 +11,7 @@ Having completed my Bachelor’s in Computer Science & Engineering, I can say my
 - 🔭 I’m currently working on Computer Vision & AI based projects.
 - 🌱 I’m currently learning model deployment on edge devices.
 - 👯 I’m looking to collaborate on Data Science & AI projects, and Kaggle competitions.
-- 💬 Ask me about ML, CV, and Data Science.
+- 💬 Ask me about Machine Learning, Computer Vision, and Data Science.
 
 ---
 
