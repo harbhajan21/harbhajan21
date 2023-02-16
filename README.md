@@ -32,12 +32,9 @@ Currently, I'm pursuing my masters degree in Applied Computing Specialization in
 ---
 
 <h2 align="left">Tech Stack</h2>
-<div class="image-container">
+
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/><img src = https://matplotlib.org/3.2.1/_images/sphx_glr_logos2_003.png width="80"><img src = https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png width="80"><img src = https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png width="80"><img src=http://amueller.github.io/img/scikit-learn-logo.png width = "80"><img height="40" src=https://github.com/opencv/opencv/blob/master/samples/data/opencv-logo.png width = "80"><img height="50" src="https://camo.githubusercontent.com/c04e16c05de80dadbdc990884672fc941fdcbbfbb02b31dd48c248d010861426/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67"><img src="https://ih1.redbubble.net/image.522683973.1990/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" width="40" height="40"/><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="40" height="40"/><img src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" width="40" height="40"/>
-</div>
-.image-container {
-  padding-right: 10px; /* Adds a padding of 10 pixels to the right of the container */
-}
+
 
 
 ---
