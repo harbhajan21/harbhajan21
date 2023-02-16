@@ -49,3 +49,5 @@ Currently, I'm pursuing my masters degree in Applied Computing Specialization in
 </a>
 </p>
 
+### 😂 Random Developer Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
