@@ -40,7 +40,7 @@ Currently, I'm pursuing my masters degree in Applied Computing Specialization in
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask,r,mysql,raspberrypi,gcp,azure,git,kubernetes,docker,c" />
   </a>
 </p>
----
+
 
 
 <p align="center">
