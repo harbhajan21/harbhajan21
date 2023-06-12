@@ -45,9 +45,6 @@ Currently, I'm pursuing my masters degree in Applied Computing Specialization in
                                                                                                                                
                                                                                                                                
 ---
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbhajan21&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</p>
 
 <p align=center>
 <img height="25" src="https://badges.pufler.dev/visits/harbhajan21/harbhajan21?color=black&logo=github" />
