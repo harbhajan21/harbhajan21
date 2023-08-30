@@ -40,7 +40,7 @@ You can access my portfolio by following this link: [Portfolio Link](https://har
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask,r,mysql,raspberrypi,gcp,azure,git,kubernetes,docker,c, ai, latex, linux, sqlite, vscode" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask,r,mysql,raspberrypi,gcp,azure,git,kubernetes,docker,c,ai,latex,linux,sqlite,vscode" />
   </a>
 </p>
                                                                                                                                
