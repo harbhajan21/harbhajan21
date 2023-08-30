@@ -6,7 +6,6 @@ I'm Harbhajan Singh, a Data Scientist and AI Engineer.:v:
 Currently, I'm pursuing my masters degree in Applied Computing Specialization in Artificial Intelligence, I can say my interest in the Computer Science field has only grown with time. I gravitate more towards Data Science and Artificial Intelligence. Working in the technology sector of various startups and MNC, have helped me gain relevant experience in the industry. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business.
 
 You can access my portfolio by following this link: [Portfolio Link](https://harbhajan21.github.io/hs21.github.io/)
-<!-- I'm a co-founder of two startups (1 in Profit, 1 in No Profit or No Loss) and they are running successfully. -->
 
 ---
 
@@ -41,7 +40,7 @@ You can access my portfolio by following this link: [Portfolio Link](https://har
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask,r,mysql,raspberrypi,gcp,azure,git,kubernetes,docker,c" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask,r,mysql,raspberrypi,gcp,azure,git,kubernetes,docker,c, ai, latex, linux, sqlite, vscode" />
   </a>
 </p>
                                                                                                                                
@@ -55,6 +54,6 @@ You can access my portfolio by following this link: [Portfolio Link](https://har
 </a>
 </p>
 
-### Thanks for Visiting my GitHub Profile!
+### Thanks for visiting my GitHub profile!
 
 ---
