@@ -34,8 +34,6 @@ You can access my portfolio by following this link: [Portfolio Link](https://har
 
 <h2 align="left">Tech Stack</h2>
 
-<img src = https://matplotlib.org/3.2.1/_images/sphx_glr_logos2_003.png width="80">   <img src = https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png width="80">   <img src = https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png width="80">   <img src=http://amueller.github.io/img/scikit-learn-logo.png width = "80">   <img height="40" src=https://github.com/opencv/opencv/blob/master/samples/data/opencv-logo.png width = "80">  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="40" height="40"/>   <img src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" width="40" height="40"/>
-
 ---
 
 <p align="center">
@@ -43,7 +41,8 @@ You can access my portfolio by following this link: [Portfolio Link](https://har
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask,r,mysql,raspberrypi,gcp,azure,git,kubernetes,docker,c,ai,latex,linux,sqlite,vscode" />
   </a>
 </p>
-                                                                                                                               
+<img src = https://matplotlib.org/3.2.1/_images/sphx_glr_logos2_003.png width="80">   <img src = https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png width="80">   <img src = https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png width="80">   <img src=http://amueller.github.io/img/scikit-learn-logo.png width = "80">   <img height="40" src=https://github.com/opencv/opencv/blob/master/samples/data/opencv-logo.png width = "80">  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="40" height="40"/>   <img src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" width="40" height="40"/>
+
                                                                                                                                
 ---
 
