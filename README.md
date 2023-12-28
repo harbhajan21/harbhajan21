@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
 ---
-I'm Harbhajan Singh, a Data Scientist and AI Engineer.:v:
+I'm Harbhajan Singh, a Data Scientist and AI Engineer.
 
 Currently, I'm pursuing my masters degree in Applied Computing Specialization in Artificial Intelligence, I can say my interest in the Computer Science field has only grown with time. I gravitate more towards Data Science and Artificial Intelligence. Working in the technology sector of various startups and MNC, have helped me gain relevant experience in the industry. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business.
 
