@@ -5,7 +5,7 @@ I'm Harbhajan Singh, a Data Scientist, AI Engineer, and Startup Enthusiast.
 
 Currently, I'm working as an AI Developer at AAFC (Agriculture and Agri-Food Canada - Government of Canada). I completed my masters degree in Master of Applied Computing in Artificial Intelligence, I can say my interest in the Computer Science field has only grown with time. I gravitate more towards Data Science and Artificial Intelligence. Working in the technology sector of various startups and MNC, have helped me gain relevant experience in the industry. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business.
 
-You can access my portfolio by following this link: [Portfolio Link](https://harbhajan21.github.io/hs21.github.io/)
+You can access my portfolio by following this link: [Portfolio Link](https://harbhajan21.github.io/portfolio/)
 
 ---
 
