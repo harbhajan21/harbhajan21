@@ -3,14 +3,13 @@
 ---
 I'm Harbhajan Singh, a Data Scientist, AI Engineer, and Startup Enthusiast.
 
-Currently, I'm working as an AI Developer at AAFC (Agriculture and Agri-Food Canada - Government of Canada). I completed my masters degree in Master of Applied Computing in Artificial Intelligence, I can say my interest in the Computer Science field has only grown with time. I gravitate more towards Data Science and Artificial Intelligence. Working in the technology sector of various startups and MNC, have helped me gain relevant experience in the industry. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business.
+Currently, I'm working as a Data Scientist at TD Securities (TD Bank Group). I completed my masters degree in Master of Applied Computing in Artificial Intelligence, I can say my interest in the Computer Science field has only grown with time. I gravitate more towards Data Science and Artificial Intelligence. Working in the technology sector of various startups and MNC, have helped me gain relevant experience in the industry. As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business.
 
 You can access my portfolio by following this link: [Portfolio Link](https://harbhajan21.github.io/portfolio/)
 
 ---
 
-- 🔭 I’m currently working on RAG based Application, Computer Vision & AI based projects.
-- 🌱 I’m currently learning model deployment on edge devices.
+- 🔭 I’m working on Agentic RAG-based Applications, Computer Vision & AI-based projects.
 - 👯 I’m looking to collaborate on Data Science & AI projects, and Kaggle competitions.
 - 💬 Ask me about Machine Learning, Computer Vision, and Data Science.
 
