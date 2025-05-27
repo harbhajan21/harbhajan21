@@ -50,7 +50,7 @@ You can access my portfolio by following this link: [Portfolio Link](https://har
 ---
 
 <p align=center>
-<img height="25" src="https://badges.pufler.dev/visits/harbhajan21/harbhajan21?color=black&logo=github" />
+<!-- <img height="25" src="https://badges.pufler.dev/visits/harbhajan21/harbhajan21?color=black&logo=github" /> -->
 <img height="25" src="https://komarev.com/ghpvc/?username=harbhajan21&color=brightgreen" />
 <a href="https://github.com/harbhajan21">
 </a>
