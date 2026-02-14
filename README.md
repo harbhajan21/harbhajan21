@@ -35,37 +35,53 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 ---
 
-### 💡 Areas of Expertise
+### 🛠️ Tech Stack
 
 <div align="center">
 
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF6B6B?style=flat-square) 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4ECDC4?style=flat-square) 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-45B7D1?style=flat-square) 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-96CEB4?style=flat-square) 
-![LLMs](https://img.shields.io/badge/LLMs-FFEEAD?style=flat-square) 
-![Agentic RAG](https://img.shields.io/badge/Agentic%20RAG-9B59B6?style=flat-square) 
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FC74A6?style=flat-square) 
-![MLOps](https://img.shields.io/badge/MLOps-3498DB?style=flat-square)
+**Core Languages & Frameworks**
+  
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv,scikit,langchain,huggingface,ollama,openai,fastapi,flask,streamlit,gradio&perline=14" />
 
+**MLOps • Cloud • DevOps**
+  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,gcp,azure,aws,mysql,postgresql,sqlite&perline=11" />
+
+**Data Science & Visualization**
+  
+<img src="https://skillicons.dev/icons?i=jupyter,r,latex,vscode" />
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 28px; margin-top: 28px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="https://matplotlib.org/3.2.1/_images/sphx_glr_logos2_003.png" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Matplotlib</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Seaborn</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Pandas</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Scikit-learn</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text.svg/1200px-OpenCV_Logo_with_text.svg.png" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">OpenCV</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Power BI</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://www.tableau.com/sites/default/files/2023-10/Tableau-Logo.png" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Tableau</p>
+  </div>
 </div>
 
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv,scikit,langchain,huggingface,ollama,openai,fastapi,flask,streamlit,gradio,jupyter,docker,kubernetes,git,github,linux,gcp,azure,aws,mysql,postgresql,sqlite,r,latex,vscode&perline=14" />
-</p>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://matplotlib.org/3.2.1/_images/sphx_glr_logos2_003.png" width="68" style="margin:0 8px" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="68" style="margin:0 8px" />
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="68" style="margin:0 8px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="68" style="margin:0 8px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text.svg/1200px-OpenCV_Logo_with_text.svg.png" width="68" style="margin:0 8px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="68" style="margin:0 8px" />
-  <img src="https://www.tableau.com/sites/default/files/2023-10/Tableau-Logo.png" width="68" style="margin:0 8px" />
 </div>
 
 ---
@@ -92,19 +108,26 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 ### 📬 Connect With Me
 
-<div align="center">
+<div align="center" style="margin: 32px 0;">
 
-<a href="https://x.com/Harbhajan2105" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" width="42" height="42" style="margin:0 12px" />
+<a href="https://x.com/Harbhajan2105" target="_blank" style="margin: 0 18px; text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" width="58" height="58" style="transition: all 0.3s; filter: brightness(1.1);">
+  <p style="margin: 6px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">X</p>
 </a>
-<a href="https://www.linkedin.com/in/harbhajansingh21/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="42" height="42" style="margin:0 12px" />
+
+<a href="https://www.linkedin.com/in/harbhajansingh21/" target="_blank" style="margin: 0 18px; text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="58" height="58" style="transition: all 0.3s; filter: brightness(1.1);">
+  <p style="margin: 6px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">LinkedIn</p>
 </a>
-<a href="https://www.kaggle.com/harbhajansingh21" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" width="42" height="42" style="margin:0 12px" />
+
+<a href="https://www.kaggle.com/harbhajansingh21" target="_blank" style="margin: 0 18px; text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" width="58" height="58" style="transition: all 0.3s; filter: brightness(1.1);">
+  <p style="margin: 6px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">Kaggle</p>
 </a>
-<a href="mailto:singh.bhajji2105@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="42" height="42" style="margin:0 12px" />
+
+<a href="mailto:singh.bhajji2105@gmail.com" style="margin: 0 18px; text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="58" height="58" style="transition: all 0.3s; filter: brightness(1.1);">
+  <p style="margin: 6px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">Email</p>
 </a>
 
 </div>
