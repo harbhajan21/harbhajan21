@@ -41,15 +41,15 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 **Core Languages & Frameworks**
   
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,scikit,langchain,huggingface,ollama,openai,streamlit,gradio&perline=14" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,r,fastapi,flask,scikit,langchain,huggingface,ollama,openai,streamlit,gradio&perline=14" />
 
 **MLOps • Cloud • DevOps**
   
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,gcp,azure,aws,mysql,postgresql,sqlite&perline=11" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,gcp,azure,aws,mysql,postgresql,sqlite,supabase,replit,raspberrypi&perline=11" />
 
 **Data Science & Visualization**
   
-<img src="https://skillicons.dev/icons?i=jupyter,r,latex,vscode" />
+<img src="https://skillicons.dev/icons?i=jupyter,r,latex,vscode,pycharm" />
 
 <div style="display: inline-block;">
   <img src="https://matplotlib.org/3.2.1/_images/sphx_glr_logos2_003.png" width="80">
@@ -90,22 +90,22 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 <div align="center" style="margin: 32px 0;">
 
 <a href="https://x.com/Harbhajan2105" target="_blank" style="margin: 0 18px; text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" width="58" height="58" style="transition: all 0.3s; filter: brightness(1.1);">
+  <img src="https://skillicons.dev/icons?i=twitter" />
   <p style="margin: 6px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">X</p>
 </a>
 
 <a href="https://www.linkedin.com/in/harbhajansingh21/" target="_blank" style="margin: 0 18px; text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="58" height="58" style="transition: all 0.3s; filter: brightness(1.1);">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
   <p style="margin: 6px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">LinkedIn</p>
 </a>
 
 <a href="https://www.kaggle.com/harbhajansingh21" target="_blank" style="margin: 0 18px; text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" width="58" height="58" style="transition: all 0.3s; filter: brightness(1.1);">
+  <img src="https://skillicons.dev/icons?i=kaggle" />
   <p style="margin: 6px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">Kaggle</p>
 </a>
 
 <a href="mailto:singh.bhajji2105@gmail.com" style="margin: 0 18px; text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="58" height="58" style="transition: all 0.3s; filter: brightness(1.1);">
+  <img src="https://skillicons.dev/icons?i=mail" />
   <p style="margin: 6px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">Email</p>
 </a>
 
