@@ -87,27 +87,27 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 ### 📬 Connect With Me
 
-<div align="center" style="margin: 32px 0;">
+<div align="center" style="margin: 40px 0; display: flex; justify-content: center; gap: 42px; flex-wrap: wrap;">
 
-<a href="https://x.com/Harbhajan2105" target="_blank" style="margin: 0 18px; text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-  <p style="margin: 6px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">X</p>
-</a>
+  <a href="https://x.com/Harbhajan2105" target="_blank" style="text-align: center; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=x" width="62" />
+    <p style="margin: 10px 0 0; font-size: 14px; font-weight: 600; opacity: 0.9;">X</p>
+  </a>
 
-<a href="https://www.linkedin.com/in/harbhajansingh21/" target="_blank" style="margin: 0 18px; text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-  <p style="margin: 6px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">LinkedIn</p>
-</a>
+  <a href="https://www.linkedin.com/in/harbhajansingh21/" target="_blank" style="text-align: center; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="62" />
+    <p style="margin: 10px 0 0; font-size: 14px; font-weight: 600; opacity: 0.9;">LinkedIn</p>
+  </a>
 
-<a href="https://www.kaggle.com/harbhajansingh21" target="_blank" style="margin: 0 18px; text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=kaggle" />
-  <p style="margin: 6px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">Kaggle</p>
-</a>
+  <a href="https://www.kaggle.com/harbhajansingh21" target="_blank" style="text-align: center; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=kaggle" width="62" />
+    <p style="margin: 10px 0 0; font-size: 14px; font-weight: 600; opacity: 0.9;">Kaggle</p>
+  </a>
 
-<a href="mailto:singh.bhajji2105@gmail.com" style="margin: 0 18px; text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=mail" />
-  <p style="margin: 6px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">Email</p>
-</a>
+  <a href="mailto:singh.bhajji2105@gmail.com" style="text-align: center; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="62" />
+    <p style="margin: 10px 0 0; font-size: 14px; font-weight: 600; opacity: 0.9;">Email</p>
+  </a>
 
 </div>
 
