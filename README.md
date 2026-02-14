@@ -28,10 +28,10 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 ### 🚀 What I’m Building Right Now
 
-- **Agentic RAG Systems** — Autonomous AI agents that reason, retrieve, and act  
-- **Multimodal Computer Vision** — Real-world solutions using PyTorch, OpenCV & Transformers  
-- **Production Generative AI** — Fine-tuning LLMs, building scalable GenAI products  
-- **AI Startups** — Advising and building the next generation of AI-native companies
+- **Agentic RAG Systems** - Autonomous AI agents that reason, retrieve, and act  
+- **Multimodal Computer Vision** - Real-world solutions using PyTorch, OpenCV & Transformers  
+- **Production Generative AI** - Fine-tuning LLMs, building scalable GenAI products  
+- **AI Startups** - Advising and building the next generation of AI-native companies
 
 ---
 
@@ -41,7 +41,7 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 **Core Languages & Frameworks**
   
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv,scikit,langchain,huggingface,ollama,openai,fastapi,flask,streamlit,gradio&perline=14" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,scikit,langchain,huggingface,ollama,openai,streamlit,gradio&perline=14" />
 
 **MLOps • Cloud • DevOps**
   
@@ -55,10 +55,11 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
   <div style="text-align: center;">
     <img src="https://matplotlib.org/3.2.1/_images/sphx_glr_logos2_003.png" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
     <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Matplotlib</p>
-  </div>
-  <div style="text-align: center;">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
     <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Seaborn</p>
+  </div>
+  <div style="text-align: center;">
+    
   </div>
   <div style="text-align: center;">
     <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
