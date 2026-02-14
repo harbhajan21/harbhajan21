@@ -51,36 +51,14 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
   
 <img src="https://skillicons.dev/icons?i=jupyter,r,latex,vscode" />
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 28px; margin-top: 28px; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <img src="https://matplotlib.org/3.2.1/_images/sphx_glr_logos2_003.png" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Matplotlib</p>
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Seaborn</p>
-  </div>
-  <div style="text-align: center;">
-    
-  </div>
-  <div style="text-align: center;">
-    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Pandas</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Scikit-learn</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text.svg/1200px-OpenCV_Logo_with_text.svg.png" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">OpenCV</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Power BI</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://www.tableau.com/sites/default/files/2023-10/Tableau-Logo.png" width="72" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500;">Tableau</p>
-  </div>
+<div style="display: inline-block;">
+  <img src="https://matplotlib.org/3.2.1/_images/sphx_glr_logos2_003.png" width="80">
+  <img src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" width="80">
+  <img src="https://www.freecodecamp.org/news/content/images/2020/07/pandas-logo.png" width="80">
+  <img src="http://amueller.github.io/img/scikit-learn-logo.png" width="80">
+  <img height="40" src="https://github.com/opencv/opencv/blob/master/samples/data/opencv-logo.png" width="80">
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="40" height="40">
+  <img src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" width="40" height="40">
 </div>
 
 </div>
