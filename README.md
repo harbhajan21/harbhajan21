@@ -101,7 +101,7 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
   </a>
 </div>
 
----
+
 ---
 
 <div align="center">
