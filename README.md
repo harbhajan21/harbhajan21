@@ -99,6 +99,7 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
   <a href="mailto:singh.bhajji2105@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
+  
 </div>
 
 ---
