@@ -8,7 +8,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/harbhajan21">
-    <img src="https://img.shields.io/github/followers/harbhajan21?label=Follow&style=for-the-badge&color=6466FF" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/harbhajan21?label=Follow&style=for-the-badge&color=0f0f23" alt="Followers" />
   </a>
 </div>
 
@@ -92,7 +92,7 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 <img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/harbhajansingh21">
-<img alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+<img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
 <a href="mailto:singh.bhajji2105@gmail.com">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
