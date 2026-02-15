@@ -4,7 +4,7 @@
   <br><br>
   
   <a href="https://harbhajan21.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-0f0f23?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/harbhajan21">
@@ -84,7 +84,7 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 ---
 
 ### 📬 How to reach me: Let's connect
-
+<div align="center">
 <a href="https://twitter.com/Harbhajan2105">
 <img align="left" alt="twitter" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -97,7 +97,7 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 <a href="mailto:singh.bhajji2105@gmail.com">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+</div>
 ---
 
 <div align="center">
