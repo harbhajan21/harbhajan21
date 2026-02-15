@@ -4,7 +4,7 @@
   <br><br>
   
   <a href="https://harbhajan21.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-0f0f23?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/harbhajan21">
@@ -101,10 +101,8 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 ---
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=harbhajan21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=00ffcc&text_color=e0e0ff" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harbhajan21&theme=tokyonight&hide_border=true&background=0f0f23&stroke=6466ff&ring=00ffcc&fire=ff00cc" height="165" />
-
 </div>
 
 <div align="center">
