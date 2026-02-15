@@ -59,8 +59,8 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 ---
 
-<div align="left">
 ### 🤝 Let’s Collaborate
+<div align="left">
 
 - **Agentic RAG & LLM applications**
 - **Computer Vision projects**
@@ -71,9 +71,8 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 ---
 
-
-<div align="left">
 ### 💬 Ask Me About
+<div align="left">
 
 - Prompt engineering & LLM fine-tuning  
 - Building production Agentic RAG systems  
@@ -84,35 +83,20 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 ---
 
-### 📬 Connect With Me
+### 📬 How to reach me: Let's connect
 
-<div style="margin: 32px 0; display: flex; justify-content: center; align-items: center; gap: 48px; flex-wrap: nowrap;">
-  
-  <!-- X / Twitter -->
-  <a href="https://x.com/Harbhajan2105" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=twitter" style="width: 48px; height: 48px;" />
-    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">X</p>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/harbhajansingh21/" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="width: 48px; height: 48px;" />
-    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">LinkedIn</p>
-  </a>
-
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/harbhajansingh21" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" style="width: 48px; height: 48px; color: #20BEFF;" />
-    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">Kaggle</p>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:singh.bhajji2105@gmail.com" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="width: 48px; height: 48px; color: #EA4335;" />
-    <p style="margin: 8px 0 0; font-size: 13px; font-weight: 500; opacity: 0.85;">Email</p>
-  </a>
-
-</div>
+<a href="https://twitter.com/Harbhajan2105">
+<img align="left" alt="twitter" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/harbhajansingh21/">
+<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.kaggle.com/harbhajansingh21">
+<img alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
+<a href="mailto:singh.bhajji2105@gmail.com">
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 ---
 
