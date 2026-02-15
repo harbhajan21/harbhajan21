@@ -16,7 +16,7 @@
 
 ### 👋 About Me
 
-**Harbhajan Singh** — *Data Scientist at [TD Securities (TD Bank Group)](https://www.tdsecurities.com/)*  
+**Harbhajan Singh** - *Data Scientist at [TD Securities (TD Bank Group)](https://www.tdsecurities.com/)*  
 **Master’s in Applied Computing (Artificial Intelligence)**
 
 I live at the intersection of **Data Science, Artificial Intelligence, and Entrepreneurship**.  
@@ -59,21 +59,21 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 ### 🤝 Let’s Collaborate
 
-**Agentic RAG & LLM applications**
-**Computer Vision projects**
-**Kaggle competitions**
-**AI startup ventures**
-**Production MLOps systems**
+- **Agentic RAG & LLM applications**
+- **Computer Vision projects**
+- **Kaggle competitions**
+- **AI startup ventures**
+- **Production MLOps systems**
 
 ---
 
 ### 💬 Ask Me About
 
-Prompt engineering & LLM fine-tuning  
-Building production Agentic RAG systems  
-Computer Vision pipelines  
-End-to-end ML system design  
-AI strategy for startups & enterprises
+- Prompt engineering & LLM fine-tuning  
+- Building production Agentic RAG systems  
+- Computer Vision pipelines  
+- End-to-end ML system design  
+- AI strategy for startups & enterprises
 
 ---
 
