@@ -84,25 +84,28 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 ---
 
 ### 📬 How to reach me: Let's connect
+
 <div align="center">
-<a href="https://twitter.com/Harbhajan2105">
-<img align="left" alt="twitter" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/harbhajansingh21/">
-<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.kaggle.com/harbhajansingh21">
-<img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
-</a>
-<a href="mailto:singh.bhajji2105@gmail.com">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+
+  <a href="https://twitter.com/Harbhajan2105">
+  <img align="left" alt="twitter" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/harbhajansingh21/">
+  <img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.kaggle.com/harbhajansingh21">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+  </a>
+  <a href="mailto:singh.bhajji2105@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
 </div>
+
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harbhajan21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=00ffcc&text_color=e0e0ff" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harbhajan21&theme=tokyonight&hide_border=true&background=0f0f23&stroke=6466ff&ring=00ffcc&fire=ff00cc" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harbhajan21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=00ffcc&text_color=e0e0ff" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harbhajan21&theme=tokyonight&hide_border=true&background=0f0f23&stroke=6466ff&ring=00ffcc&fire=ff00cc" height="165" />
 </div>
 
 <div align="center">
@@ -118,4 +121,4 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 ---
 
 **Thanks for visiting!** ✨  
-Let’s create the future together — one intelligent system at a time.
+Let’s create the future together - one intelligent system at a time.
