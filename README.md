@@ -92,7 +92,7 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 ### 📬 How to reach me: Let's connect
 
-<div align="center">
+<div align="left">
 
   <a href="https://twitter.com/Harbhajan2105">
   <img align="left" alt="twitter" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
