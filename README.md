@@ -102,6 +102,7 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 </div>
 
 ---
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harbhajan21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=00ffcc&text_color=e0e0ff" height="165" />
