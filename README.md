@@ -104,21 +104,22 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 ---
 
 ### Contributions
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harbhajan21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=00ffcc&text_color=e0e0ff" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harbhajan21&theme=tokyonight&hide_border=true&background=0f0f23&stroke=6466ff&ring=00ffcc&fire=ff00cc" height="165" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=harbhajan21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=00ffcc&text_color=e0e0ff" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harbhajan21&theme=tokyonight&hide_border=true&background=0f0f23&stroke=6466ff&ring=00ffcc&fire=ff00cc" height="165" />
+  </div>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbhajan21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=00ffcc&text_color=e0e0ff" />
+  </div>
+  
+  <br>
+  
+  <p align="center">
+    <img height="28" src="https://komarev.com/ghpvc/?username=harbhajan21&color=0f0f23&style=for-the-badge&label=PROFILE+VIEWS" />
+  </p>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harbhajan21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=00ffcc&text_color=e0e0ff" />
-</div>
-
-<br>
-
-<p align="center">
-  <img height="28" src="https://komarev.com/ghpvc/?username=harbhajan21&color=0f0f23&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
 
 ---
 
