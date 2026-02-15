@@ -59,6 +59,7 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 ---
 
+<div align="left">
 ### 🤝 Let’s Collaborate
 
 - **Agentic RAG & LLM applications**
@@ -66,9 +67,12 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 - **Kaggle competitions**
 - **AI startup ventures**
 - **Production MLOps systems**
+</div>
 
 ---
 
+
+<div align="left">
 ### 💬 Ask Me About
 
 - Prompt engineering & LLM fine-tuning  
@@ -76,6 +80,7 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 - Computer Vision pipelines  
 - End-to-end ML system design  
 - AI strategy for startups & enterprises
+</div>
 
 ---
 
