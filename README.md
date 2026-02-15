@@ -40,7 +40,7 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 <div align="center">
 
 **Core AI/ML & Frameworks**  
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,scikit,langchain,huggingface,ollama,streamlit,openai,fastapi,flask,opencv,gradio&perline=14" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,scikit,langchain,huggingface,ollama,streamlit,openai,gradio,fastapi,flask,opencv&perline=14" />
 
 **MLOps • Cloud • Infrastructure**  
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,gcp,azure,aws,mysql,postgresql,sqlite,supabase,raspberrypi&perline=13" />
@@ -59,21 +59,21 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 ### 🤝 Let’s Collaborate
 
-- **Agentic RAG & LLM applications**
-- **Computer Vision projects**
-- **Kaggle competitions**
-- **AI startup ventures**
-- **Production MLOps systems**
+**Agentic RAG & LLM applications**
+**Computer Vision projects**
+**Kaggle competitions**
+**AI startup ventures**
+**Production MLOps systems**
 
 ---
 
 ### 💬 Ask Me About
 
-- Prompt engineering & LLM fine-tuning  
-- Building production Agentic RAG systems  
-- Computer Vision pipelines  
-- End-to-end ML system design  
-- AI strategy for startups & enterprises
+Prompt engineering & LLM fine-tuning  
+Building production Agentic RAG systems  
+Computer Vision pipelines  
+End-to-end ML system design  
+AI strategy for startups & enterprises
 
 ---
 
