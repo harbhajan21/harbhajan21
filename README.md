@@ -81,7 +81,7 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
   - AI strategy for startups & enterprises
 </div>
 
----
+------
 
 ### 📬 How to reach me: Let's connect
 
