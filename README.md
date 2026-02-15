@@ -61,31 +61,31 @@ From production-grade AI at a major bank to founding AI-first startups, I bridge
 
 ### 🤝 Let’s Collaborate
 <div align="left">
-
-- **Agentic RAG & LLM applications**
-- **Computer Vision projects**
-- **Kaggle competitions**
-- **AI startup ventures**
-- **Production MLOps systems**
+  
+  - **Agentic RAG & LLM applications**
+  - **Computer Vision projects**
+  - **Kaggle competitions**
+  - **AI startup ventures**
+  - **Production MLOps systems**
 </div>
 
 ---
 
 ### 💬 Ask Me About
 <div align="left">
-
-- Prompt engineering & LLM fine-tuning  
-- Building production Agentic RAG systems  
-- Computer Vision pipelines  
-- End-to-end ML system design  
-- AI strategy for startups & enterprises
+  
+  - Prompt engineering & LLM fine-tuning  
+  - Building production Agentic RAG systems  
+  - Computer Vision pipelines  
+  - End-to-end ML system design  
+  - AI strategy for startups & enterprises
 </div>
 
 ---
 
 ### 📬 How to reach me: Let's connect
 
-<div align="center">
+<div align="left">
 
   <a href="https://twitter.com/Harbhajan2105">
   <img align="left" alt="twitter" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
