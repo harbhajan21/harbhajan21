@@ -20,7 +20,7 @@
 **Master’s in Applied Computing (Artificial Intelligence)**
 
 I live at the intersection of **Data Science, Artificial Intelligence, and Entrepreneurship**.  
-With deep expertise in **Generative AI, Agentic RAG frameworks, Large Language Models, Computer Vision, and MLOps**, I build intelligent systems that don’t just analyze data — they *think* and *act*.
+With deep expertise in **Generative AI, Agentic RAG frameworks, Large Language Models, Computer Vision, and MLOps**, I build intelligent systems that don’t just analyze data - they *think* and *act*.
 
 From production-grade AI at a major bank to founding AI-first startups, I bridge cutting-edge technology with real business impact.
 
