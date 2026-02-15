@@ -10,8 +10,6 @@
   <a href="https://github.com/harbhajan21">
     <img src="https://img.shields.io/github/followers/harbhajan21?label=Follow&style=for-the-badge&color=0f0f23" alt="Followers" />
   </a>
-
-  <br>
   
   <p align="center">
     <img height="28" src="https://komarev.com/ghpvc/?username=harbhajan21&color=0f0f23&style=for-the-badge&label=PROFILE+VIEWS" />
