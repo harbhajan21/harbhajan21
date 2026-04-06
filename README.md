@@ -7,9 +7,9 @@
     <img src="https://img.shields.io/badge/Visit%20Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/harbhajan21">
+  <!-- <a href="https://github.com/harbhajan21">
     <img src="https://img.shields.io/github/followers/harbhajan21?label=Follow&style=for-the-badge&color=0f0f23" alt="Followers" />
-  </a>
+  </a> -->
   
   <p align="center">
     <img height="28" src="https://komarev.com/ghpvc/?username=harbhajan21&color=0f0f23&style=for-the-badge&label=PROFILE+VIEWS" />
